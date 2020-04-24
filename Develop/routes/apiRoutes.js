@@ -12,7 +12,7 @@ module.exports = function (app) {
     });
     app.post("/api/notes", function (req, res) {
 
-        let noteId = jsonNotes.length +1 
+        let noteId = jsonNotes.length + 1
         console.log(noteId);
 
         let newNote = req.body;
@@ -28,8 +28,9 @@ module.exports = function (app) {
     });
 
     app.delete("/api/clear/:id", function (req, res) {
-        if(newNote.id === req.params.id) {
+        if (newNote.id === req.params.id) {
             jsonNotes.splice(newNote.id, 1);
         }
+        res.json(jsonNotes)
     });
 }
