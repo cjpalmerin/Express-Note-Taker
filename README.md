@@ -22,6 +22,13 @@ User must have express installed in order to run the Express Note Taker app. Fro
 
 In order to start the application the user must have express installed. Once express is installed, open the app.js file in the CLI and follow the localhost link! 
 
+![demo image](./demo/demo1.png)
+![demo image](./demo/demo2.png)
+![demo image](./demo/demo3.png)
+![demo image](./demo/demo4.png)
+![demo image](./demo/demo5.png)
+![demo image](./demo/demo6.png)
+
 
 ### License
 
