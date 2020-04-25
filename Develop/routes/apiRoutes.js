@@ -9,7 +9,7 @@ module.exports = function (app) {
     });
     app.post("/api/notes", function (req, res) {
 
-        let noteId = jsonNotes.length;
+        let noteId = jsonNotes.length * Math.floor(Math.random() * 999999);
 
         let newNote = req.body;
         newNote.id = noteId;
