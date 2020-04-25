@@ -17,12 +17,12 @@ This Express Note Taker allows users to write, save, and delete notes! Write wha
 
 ### Installation
 
-User must have express installed in order to run the Express Note Taker app. From there the user can run he app.js through a CLI and follow the local host link.
+Not installation necessary! Click on the link above or in the Usage section and you're good to go.
 
 
 ### Usage
 
-In order to start the application the user must have express installed. Once express is installed, open the app.js file in the CLI and follow the localhost link! 
+Check out Express Note Taker Here: https://express-note-taker-cjpalmerin.herokuapp.com/
 
 ![demo image](./demo/demo1.png)
 ![demo image](./demo/demo2.png)
