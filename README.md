@@ -7,10 +7,10 @@ This Express Note Taker allows users to write, save, and delete notes! Write wha
 
 ### Table of Contents
 
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Questions](#questions)
+[Installation](#installation) | 
+[Usage](#usage) | 
+[License](#license) | 
+[Questions](#questions) | 
 
 
 ### Installation
